@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReportConfiguration">
+    <option name="caseConfig">
+      <CaseConfig>
+        <option name="ciStatus" value="NO" />
+        <option name="workDirectory" value="$PROJECT_DIR$" />
+      </CaseConfig>
+    </option>
+  </component>
+</project>
